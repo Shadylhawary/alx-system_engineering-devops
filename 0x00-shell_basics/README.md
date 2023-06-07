@@ -5,4 +5,4 @@
 4-listmorefiles: Display Current Directory Contents, Including The Hidden Files
 5-listfilesdigitonly: Display Current Directory Contents With User and Group IDs Displayed Numerically
 6-firstdirectory: Script To Create Directory in /tmp/my_first_direcotry
-
+7-movethatfile: Script To Move File Betty to /tmp/my_first_directory
