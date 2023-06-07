@@ -11,3 +11,4 @@
 10-back: Script File To Return to Pervious Working Directory
 11-lists: Script File To List All Files in the system in Long format
 12-file_type: Script to print file type in tmp. /tmp/iamafile
+13-symbolic_link: Create a symbolic link
