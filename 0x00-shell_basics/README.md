@@ -17,3 +17,4 @@
 101-clean_emacs: Script file to delete all files that ends with ~ <br />
 102-tree: Script that create directories in the current directory <br />
 103-commas: Script to list all files in the current directory sep with comma <br />
+school.mgc: Magic file that can be used with the command file to detect School data files
