@@ -9,3 +9,4 @@
 8-firstdelete: Script To Delete File From /tmp/my_first_directory
 9-firstdirdeletion: Script To Delete My First Directory
 10-back: Script File To Return to Pervious Working Directory
+11-lists: Script File To List All Files in the system in Long format
