@@ -12,5 +12,6 @@
 11-lists: Script File To List All Files in the system in Long format__
 12-file_type: Script to print file type in tmp. /tmp/iamafile__
 13-symbolic_link: Create a symbolic link__
-14-copy_html: Script file to copy all html files from the current directory to the parent directroy__
-100-lets_move: Script file that moves all files beginning with an uppercase letter to tmp__
+14-copy_html: Script file to copy all html files from the current directory to the parent directory <br />
+100-lets_move: Script file that moves all files beginning with an uppercase letter to tmp <br />
+101-clean_emacs: Script file to delete all files that ends with ~ <br />
