@@ -1,5 +1,5 @@
-0-current_working_directory: Print Working Directory__
-1-listit: Print The Content List Of Your Current Directory__
+0-current_working_directory: Print Working Directory<br />
+1-listit: Print The Content List Of Your Current Directory<br />
 2-bring_me_home: Change Your Directory To Home<br />
 3-listfiles: Display Current Directory Contents in Long Format<br />
 4-listmorefiles: Display Current Directory Contents, Including The Hidden Files<br/ >
@@ -16,3 +16,4 @@
 100-lets_move: Script file that moves all files beginning with an uppercase letter to tmp <br />
 101-clean_emacs: Script file to delete all files that ends with ~ <br />
 102-tree: Script that create directories in the current directory <br />
+103-commas: Script to list all files in the current directory sep with comma <br />
