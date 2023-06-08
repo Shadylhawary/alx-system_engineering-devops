@@ -8,4 +8,5 @@
 7-everybody: script file that adds execution permission to the owner <br />
 8-James_Bond: James Bond Permission <br />
 9-John_Doe: script file that sets the mode of the file hello to -rwxr-x-wx <br />
+10-mirror_permission: script file to make certain permission like another file <br />
 
