@@ -9,4 +9,5 @@
 8-James_Bond: James Bond Permission <br />
 9-John_Doe: script file that sets the mode of the file hello to -rwxr-x-wx <br />
 10-mirror_permission: script file to make certain permission like another file <br />
+11-directories_permissions: script file that adds execute to all subdirectories <br />
 
