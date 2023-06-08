@@ -10,4 +10,5 @@
 9-John_Doe: script file that sets the mode of the file hello to -rwxr-x-wx <br />
 10-mirror_permission: script file to make certain permission like another file <br />
 11-directories_permissions: script file that adds execute to all subdirectories <br />
+12-directory_permissions: script file that creates a directory called my_dir with 751 permission <br />
 
