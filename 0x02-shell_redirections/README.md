@@ -6,4 +6,5 @@
 5-firstlines: Script file to display the first 10 lines of one file <br />
 6-third_line: Script file to display the third line of a certain file <br />
 7-file: Script file to create a file that contains "Best School" <br />
+8-cwd_state: Script file to enter the output of the ls -la command into another file <br />
 
