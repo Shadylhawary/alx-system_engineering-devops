@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -art | tail -n 1
+find . -type f | sort -n
